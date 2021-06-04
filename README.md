@@ -2,7 +2,7 @@
 # Counting
 Ciclos-Counting
 
-Revisa el ejercicio src/exercise.py, ese programa contiene el siguiente código:
+Revisa el ejercicio _**src/exercise.py**_ ese programa contiene el siguiente código:
 
 ```python
 def main():
