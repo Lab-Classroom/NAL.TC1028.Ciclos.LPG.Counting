@@ -1,6 +1,6 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Hello World!
-Básico-Hello World
+# Counting
+Ciclos-Counting
 
 El programa contiene el siguiente código
 
@@ -15,12 +15,21 @@ if __name__ == '__main__':
 La línea 
 The line `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
-Agrega una nueva línea abajo del comentario con el código para imprimir `Hello World!` y ejecuta el programa.
-
-La salida del proframa debe de ser exactamente de la siguiente forma:
+Escribe un programa que lea un número entero. El programa debe imprmir los números del 0 al número dado por el usuario. Asume que el usuario siembre da un número entero positivo. Revisa los ejemplos a continuación:
 
 ```plaintext
-Hello World
+**4**
+0
+1
+2
+3
+4
+```
+
+```plaintext
+**1**
+0
+1
 ```
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
