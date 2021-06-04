@@ -2,7 +2,7 @@
 # Counting
 Ciclos-Counting
 
-El programa contiene el siguiente código
+Revisa el ejercicio src/exercise.py, ese programa contiene el siguiente código:
 
 ```python
 def main():
@@ -12,8 +12,7 @@ if __name__ == '__main__':
     main()
 ```
 
-La línea 
-The line `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
+La línea  `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
 Escribe un programa que lea un número entero. El programa debe imprmir los números del 0 al número dado por el usuario. Asume que el usuario siembre da un número entero positivo. Revisa los ejemplos a continuación:
 
