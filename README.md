@@ -8,8 +8,8 @@ Revisa el ejercicio _**src/exercise.py**_ ese programa contiene el siguiente có
 def main():
   #escribe tu código abajo de esta línea
 
-if __name__ == '__main__':
-    main()
+
+main()
 ```
 
 La línea  `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
@@ -31,6 +31,4 @@ Escribe un programa que lea un número entero. El programa debe imprmir los núm
 1
 ```
 
-**Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
 
-Una vez que termines tu actividad y la hayas probado con `pytest`, subela a tu repositorio en GitHub, con el proceso de commit + push.
